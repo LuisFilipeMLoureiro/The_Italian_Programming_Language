@@ -1,7 +1,6 @@
 void main()
 {
 
-  /* Single var */
   int x_1$
   x_1 = 3$
  loop(x_1 piu_piccula 5){
